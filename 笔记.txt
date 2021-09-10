@@ -1,0 +1,10 @@
+mysql登录：mysql  -u  root  -p
+查看字符集命令status;
+虚拟机密码123456
+用户密码Qwe159！
+
+
+数据库作业
+web测试unittest和pytest
+api
+app
